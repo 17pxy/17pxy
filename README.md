@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @soyrtx
+- 🌱 I’m currently learning JavaScript
