@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm rtx</h1>
 <h3 align="center">A passionate frontend developer from Uruguay</h3>
 
-- 🔭 I’m currently working on [Saturn Studios](dsc.gg/saturnstudios)
+- 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning **Java**
 
