@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm rtx</h1>
+<h1 align="center">Hi 👋, I'm 17pxy</h1>
 <h3 align="center">A passionate frontend developer from Uruguay</h3>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Neon Solutions
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [rtx.solutions/portfolio](rtx.solutions/portfolio)
+- 👨‍💻 All of my projects are available at 
 
-- 📫 How to contact me **Email: teoouy@outlook.com or Discord: rtx#3317**
+- 📫 How to contact me **Email: teoouy@outlook.com or Discord: 17pxy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/soyrtx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soyrtx" height="30" width="40" /></a>
+<a href="https://twitter.com/17pxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="17pxy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
