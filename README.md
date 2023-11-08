@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 17pxy</h1>
-<h3 align="center">A passionate developer from Uruguay</h3>
+<h3 align="center">An attempt of backend developer from Uruguay</h3>
 
 - 🔭 I’m currently working on Neon Solutions
 
